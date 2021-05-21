@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+img:hover{
+    transform:scale(0.9);
+}
+img{
+    transition: transform.2s;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color:cadetblue;
+    margin: 8px auto;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
